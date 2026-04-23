@@ -1,0 +1,6 @@
+pandas
+rank-bm25
+pymupdf
+ollama
+jupyter
+notebook
