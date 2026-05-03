@@ -1,0 +1,554 @@
+[
+  {
+    "chunk_id": "chunk_0000",
+    "source": "data/iesc110.pdf",
+    "page": 1,
+    "content_type": "prose",
+    "text": "Sound Waves: \nCharacteristics and \nApplications\nChapter \n10\nSound is an everyday sensory experience that helps us become \naware of our surroundings. Every day, we hear a variety of sounds \nin our surroundings, such as human voices, birds chirping, \nwaves crashing on the seashore, leaves rustling, mobile phones \nringing, vehicles honking, music, and the claps of thunder. You \nhave learnt in Chapter 7 that sound is a form of energy. You have \nalso learnt that energy can neither be created nor be destroyed. It only changes from one form to another. Which form of energy \ngets converted to sound energy? How is sound produced and how \ndoes it reach our ears? In this chapter, we will try to find the \nanswers to these questions. 10.1 Production of Sound\nYou learnt a few ways to produce sound in \nyour textbooks for arts in the earlier grades.",
+    "token_count": 191
+  },
+  {
+    "chunk_id": "chunk_0001",
+    "source": "data/iesc110.pdf",
+    "page": 1,
+    "content_type": "prose",
+    "text": "Grade 3\nBansuri I\nChapter 9      \nGrade 4\nBansuri\nChapter 13      \nGrade 5\nBansuri\nChapter 12      \nGrade 6\nKriti I\nChapter 7\nDo you also remember learning about \nsonority earlier, a property of some metals \nwhere sound is produced when struck with \nan object (Fig. 10.1)? Fig. 10.1: Taal a \nmusical instrument \nGrade 7\nCuriosity\nChapter 4\nThink It Over\n\ty\nTwo astronauts are \nrepairing the arm \nof a space station \ntogether during \na spacewalk. Can \nthey talk to each \nother and hear the \nsounds of metal \nclanking as they do \non the Earth? y\nHow do most bats \nuse sound to locate \ntheir prey in the \ndark at night? Chapter",
+    "token_count": 186
+  },
+  {
+    "chunk_id": "chunk_0002",
+    "source": "data/iesc110.pdf",
+    "page": 2,
+    "content_type": "question_or_exercise",
+    "text": "Sound Waves: Characteristics and Applications\n185\nActivity 10.1: Let us explore\n1. Take a cardboard box with one side open \nand a rubber band. 2. Stretch the rubber band across the open \nside of the box (Fig. 10.2). 3. Holding the box steady with one hand, \npluck the rubber band with a finger. Do \nyou hear any sound? 4. Pluck the rubber band again and watch it \ncarefully. Is it vibrating? 5. Wait till the rubber band stops vibrating. Do you still hear the sound? 6. Change the tension in the rubber band by \nstretching it more or loosening it slightly and plucking it each time. Does the sound change? What changes do you notice? 7. Remove the rubber band from the box. Stretch it between two fingers \nand pluck it near your ear. Is the sound still produced? Is it as loud as \nbefore? You may have noticed that as long as the rubber band is stretched and \nvibrating, sound is produced. Once the vibration stops, so does the sound. From this activity, we conclude that sound is produced by vibrations.",
+    "token_count": 241
+  },
+  {
+    "chunk_id": "chunk_0003",
+    "source": "data/iesc110.pdf",
+    "page": 2,
+    "content_type": "prose",
+    "text": "Vibration refers to the periodic to and fro motion (oscillations) of an object. Pulling a stretched string or striking a metal object makes them vibrate, \nwhich produces sound. Likewise, when you blow through a bansuri (flute), \nvibration of the air inside the hollow pipe produces sound. You have \nlearnt earlier that some of these methods are used in a variety of musical \ninstruments. Sound can be produced by vibrating strings membranes, air \ncolumns, and many other vibrating objects. In most musical instruments, \nmore than one vibrating part is involved in producing sound. The object \nthat produces sound is called the ‘source’ of the sound. How do humans and animals create sound? While talking or singing, gently touch your \nthroat. Do you feel vibrations anywhere? In \nhumans and some other animals, sound is \nproduced by the vibration of vocal cords, \nwhich are tightly stretched muscular flaps \nlocated inside the voice box or larynx, \nin the throat (Fig. 10.3). The tongue, lips, \nmouth and nasal cavity in humans help in \nconverting sound into speech or music.",
+    "token_count": 241
+  },
+  {
+    "chunk_id": "chunk_0004",
+    "source": "data/iesc110.pdf",
+    "page": 2,
+    "content_type": "prose",
+    "text": "Some \nanimals \nproduce \nsound \nby \nstriking or rubbing certain body parts. For \nexample, grasshoppers and crickets rub \ntheir wings or legs to produce sound. Threads of Curiosity\nFig. 10.3: Vocal cords in humans\nVocal \ncords \nLarynx\nVocal cords \nopen\nVocal cords \nclosed\nFig. 10.2: Vibrating rubber \nband produces sound\nGrade 4\nBansuri\nChapter 13",
+    "token_count": 101
+  },
+  {
+    "chunk_id": "chunk_0005",
+    "source": "data/iesc110.pdf",
+    "page": 3,
+    "content_type": "question_or_exercise",
+    "text": "186\nExploration|Grade 9\n10.1.1 Tuning fork\nAn instrument that is often used for experiments with sound is a tuning \nfork. A tuning fork is a U-shaped metal bar with a stem. It is usually \nmade of steel or aluminium. The sides of the ‘U’ are called prongs or tines \n(Fig. 10.4a) which are struck on a pad to make them vibrate. Activity 10.2: Let us explore\n1. Take a tuning fork and a soft rubber pad. 2. Hold the tuning fork by its stem. 3. Strike one of the prongs of the tuning fork gently against the rubber \npad (Fig. 10.4b) and bring it close to your ear. Do you hear a sound? (Take care not to strike the tuning fork against a hard surface). 4. Now, gently touch a water surface with one of the vibrating prongs of \nthe tuning fork. Do you see waves forming on the surface of water? 5. Repeat step 3 a few times while bringing the prongs of the tuning fork \nnear your ear in different orientations. Do you hear the sound?",
+    "token_count": 243
+  },
+  {
+    "chunk_id": "chunk_0006",
+    "source": "data/iesc110.pdf",
+    "page": 3,
+    "content_type": "prose",
+    "text": "When you bring a vibrating tuning fork near your ear you hear the \nsound that is produced. When the prong touches the surface of water, \nwaves form on the surface of water, indicating that the prongs of the tuning \nfork are indeed vibrating (Fig. 10.4c). These observations support the idea \nthat sound is produced by vibrating objects. 1. Explore various ways of producing sound. 2. Make a list of different types of musical instruments and identify their \nvibrating parts which produce sound. Pause and Ponder\nWhat if your name were a tune instead of a word? In Kongthong, a \nvillage near Shillong in Meghalaya also known as the Whistling Village \nevery person has a ‘tune name’ that can be sung or whistled. This unique \ntradition, called Jingrwai Iawbei, begins at birth when a mother composes \na lullaby-like tune for her child. Threads of Curiosity\n10.2 Propagation of Sound\nYou have seen that sound is produced by vibrating objects. How does sound \nreach your ear from the source? Sound travels through air but does it also \ntravel through solids and liquids?",
+    "token_count": 249
+  },
+  {
+    "chunk_id": "chunk_0007",
+    "source": "data/iesc110.pdf",
+    "page": 3,
+    "content_type": "question_or_exercise",
+    "text": "Activity 10.3: Let us investigate\n1. You and your friend stand on opposite sides of a desk in the classroom. Let your friend gently knock or scratch on the desk. Listen carefully to \nthe sound produced with your ear in the air. Fig. 10.4: (c) A prong \nof vibrating tuning \nfork touching the \nsurface of water\nFig. 10.4: (b) Striking a \ntuning fork against a \nrubber pad\nFig. 10.4: (a) A tuning \nfork and a rubber pad\nProngs\nRubber pad\nStem",
+    "token_count": 127
+  },
+  {
+    "chunk_id": "chunk_0008",
+    "source": "data/iesc110.pdf",
+    "page": 4,
+    "content_type": "question_or_exercise",
+    "text": "Sound Waves: Characteristics and Applications\n187\n2. Now, place your ear against the desk, close \nyour other ear and listen again, as shown \nin Fig. 10.5. Are you able to hear the sound \nthrough the table? This shows that sound can also travel through \nsolids. Activity 10.4: Let us investigate\n1. Take a large tub or bucket of water filled to the \nbrim and two metal spoons. 2. Tap the spoons against one another and listen to the sound \nproduced (Fig. 10.6a). 3. Now, submerge the two metal spoons in water without touching \nthe sides or bottom of the bucket and tap them against one another \nagain (Fig. 10.6b). Do you again hear the sound produced? The sound of the submerged spoons tells you that the sound has \nreached you after travelling through water and air. If sound did not \ntravel through liquids, would you have heard this sound? Sound can travel or propagate through solids, liquids and gases. The \nmaterial through which sound propagates is called a medium. Sound \npropagates from its source to you through a medium.",
+    "token_count": 246
+  },
+  {
+    "chunk_id": "chunk_0009",
+    "source": "data/iesc110.pdf",
+    "page": 4,
+    "content_type": "prose",
+    "text": "But suppose \nthat there is no medium in the space between you and the source of \nthe sound. A space where there is no medium (matter) is referred to as \nvacuum. Would you hear sound in vacuum? 10.2.1 Sound needs a medium to propagate\nA common experiment to show that sound needs a medium to \npropagate is the vacuum bell jar experiment shown in Fig. 10.7. An \nelectric bell kept in a bell jar is switched on and the loudness of the \nsound is noted. As air is sucked out from the bell jar using a vacuum \npump, the sound becomes fainter. Once a near \nvacuum is reached, almost no sound can be heard \neven though the bell can be seen ringing. When air \nis let back into the jar, the sound can be heard again \nand it gradually becomes as loud as before. This experiment shows that sound cannot \npropagate in vacuum. Sound needs a medium to \npropagate. The medium can be a solid, a liquid, or \na gas. In outer space, there is a near vacuum, and \nthus, sound cannot propagate.",
+    "token_count": 237
+  },
+  {
+    "chunk_id": "chunk_0010",
+    "source": "data/iesc110.pdf",
+    "page": 4,
+    "content_type": "prose",
+    "text": "Hence, astronauts in \nspacesuits doing spacewalks cannot directly hear each \nother speak or hear sounds like two metal objects \nclanking together. Instead, they communicate through \nspecial devices fitted into their spacesuits. Fig. 10.5: Investigating if sound travels \nthrough solid objects\nFig. 10.6: Tapping two \nspoons against each other \nin (a) air, and (b) water\n(a)\n(b)\nFig. 10.7: Illustration of a vacuum \nbell jar\nElectric \nbell \nTo power \nsupply\nTo vacuum \npump\nBell jar",
+    "token_count": 125
+  },
+  {
+    "chunk_id": "chunk_0011",
+    "source": "data/iesc110.pdf",
+    "page": 5,
+    "content_type": "question_or_exercise",
+    "text": "188\nExploration|Grade 9\n3. Assertion (A): We cannot hear the sound of a bell ringing in a closed jar \nafter most of the air is pumped out. Reason (R):  Sound requires a medium to travel. Choose the correct statement:\n\t\n(i)\t Both A and R are true, but R is not the correct explanation of A. (ii)\t Both A and R are true, and R is the correct explanation of A. (iii)\t A is true, but R is false. (iv)\t A is false, but R is true. Pause and Ponder\n10.3 Sound Waves\nSound needs a material medium to propagate but how does it propagate \nthrough that medium? In Activity 10.2, you could hear a sound when you \nheld the vibrating tuning fork near your ear in different orientations. This \nindicates that sound propagates in multiple directions from a source (in \nthis case from the tuning fork). In general, the directions in which sound \npropagates may depend on the shape of the source. However, for simplicity, \nwe will consider and illustrate sound as moving in only one direction.",
+    "token_count": 239
+  },
+  {
+    "chunk_id": "chunk_0012",
+    "source": "data/iesc110.pdf",
+    "page": 5,
+    "content_type": "question_or_exercise",
+    "text": "Let us begin with a simple activity using a slinky (a long, flexible metal \nor plastic spring toy) as an analogy for the medium through which sound \ntravels. To simulate the production of sound, we will vibrate one end of \nthe slinky. Activity 10.5: Let us observe\n1. Take a slinky and a marker. 2. Make a mark on a turn of the slinky with the marker. Lay out the slinky \nhorizontally on a table or floor. 3. Ask a friend to hold one end of the slinky fixed while you hold the \nother end keeping the slinky slightly stretched. 4. Give the slinky at your end a sharp push towards your friend and then \nquickly pull it back again (Fig. 10.8). Do you observe a disturbance \ncreated in the slinky which moves towards your friend? 5. Now, push and pull the slinky end multiple times in quick succession \n(The pulling and pushing of the end of the slinky is similar to the sound \nbeing produced continuously). Are a series of disturbances produced \nin the slinky? Do these disturbances move across the length of slinky?",
+    "token_count": 245
+  },
+  {
+    "chunk_id": "chunk_0013",
+    "source": "data/iesc110.pdf",
+    "page": 5,
+    "content_type": "prose",
+    "text": "Does the mark on the slinky move back and forth parallel to the \ndirection of the disturbance? Fig. 10.8: Disturbance travelling along a slinky\nTurns are closer \ntogether\nTurns are more  \nspread out",
+    "token_count": 50
+  },
+  {
+    "chunk_id": "chunk_0014",
+    "source": "data/iesc110.pdf",
+    "page": 6,
+    "content_type": "prose",
+    "text": "Sound Waves: Characteristics and Applications\n189\nFig. 10.9: Density of air in a tube with a piston\n(a) Piston not oscillating (average air density in the \nentire tube)\n(b) Forward motion of piston produces a compression \n(region of air with a higher density)\nC\n(c) Backward motion of piston produces a rarefaction \n(region of air with a lower density)\nC\nR\n(d) Oscillating piston produces alternate compressions \nand rarefactions\nC\nC\nR\nR\nYou observe regions in the slinky where its turns are closer together \nthan usual, and other regions where they are more spread out. These \nclosely spaced and spread out regions appear to travel along the slinky. However, the mark does not travel along the slinky, it only oscillates about \nits position of rest parallel to the direction of the disturbance. Each turn \noscillates about its own position while the disturbance travels from one \nend of the slinky to the other. Sound moves in a similar way through a medium.",
+    "token_count": 222
+  },
+  {
+    "chunk_id": "chunk_0015",
+    "source": "data/iesc110.pdf",
+    "page": 6,
+    "content_type": "prose",
+    "text": "In our analogy, the \ncloseness or spreading out of the turns of the slinky represents the higher \nor lower density of air through which sound is travelling. Let us consider \na long tube filled with air that has a piston at one end and is open at the \nother. The piston can be made to oscillate back and forth inside the tube. Here, the oscillating piston is used as a simple \nand idealistic model of the source of sound to \nhelp understand how sound travels through air. When the piston is not oscillating, the air \ninside the tube has a certain uniform density, \nwhich we call the average density (Fig. 10.9a), \nwhere the dots represent the air particles. As the \npiston moves forward, it pushes and displaces \nthe nearby air particles in a forward direction, \nthereby compressing the air and increasing \nits density in a small region close to the piston \n(Fig. 10.9b). This region of air with higher \ndensity (compared to the average density) is \ncalled a compression (C). The compressed air particles collide with the \nparticles further ahead passing the compression \nforward.",
+    "token_count": 242
+  },
+  {
+    "chunk_id": "chunk_0016",
+    "source": "data/iesc110.pdf",
+    "page": 6,
+    "content_type": "prose",
+    "text": "The compressed particles further \ncollide with their neighbouring particles, and so \non. As a result, the higher density compression \nmoves forward through the air even though the \nair particles themselves do not travel with it. As the piston moves backwards, the air particles move backwards in \nthe direction of the piston and the air in a small region close to the piston \nbecomes less dense (Fig. 10.9c). This region of air with lower density \n(compared to the average density) is called a rarefaction (R). Again, due \nto collisions with nearby particles, the rarefaction moves ahead while the \nparticles themselves oscillate only about their mean positions. As the piston oscillates in forward and backward directions, \ncompressions and rarefactions are produced alternately (Fig. 10.9d). These \ntravel away from the source, and a series of compression and rarefaction \nare produced. The disturbance consisting of a series of alternating compressions and \nrarefactions propagating through a medium, without the actual flow of the \nparticles of medium, is called a sound wave. The direction in which the \nwave travels is known as the direction of propagation of the wave.",
+    "token_count": 245
+  },
+  {
+    "chunk_id": "chunk_0017",
+    "source": "data/iesc110.pdf",
+    "page": 6,
+    "content_type": "prose",
+    "text": "Note\nThe particles \nof the medium \ndo not travel \nwith the wave. They just \nvibrate about \ntheir mean \npositions.",
+    "token_count": 29
+  },
+  {
+    "chunk_id": "chunk_0018",
+    "source": "data/iesc110.pdf",
+    "page": 7,
+    "content_type": "prose",
+    "text": "190\nExploration|Grade 9\nWhen the medium is not confined to a \ntube, its vibrating particles collide with the \nsurrounding particles in all directions, and \nthus, the sound wave spreads out in all \ndirections. A small sound source continuously \nproducing sound in all directions causes \ncompressions and rarefactions that spread \nthrough the surrounding medium in all \ndirections as spherical waves (Fig. 10.10). When they reach the listener, they are \nperceived as sound. Ready to Go Beyond \nFig. 10.10: Sound from a \npoint source propagates in all \ndirections as spherical waves\nPoint \nSource\nThreads of Curiosity\nWhat causes sudden loud sounds, such as \nwhen firecrackers explode or during a clap \nof thunder? These sounds are produced in a \nslightly different way. When air or gases are \nheated rapidly, they expand very rapidly in \na short time. This rapid expansion creates a \nsudden disturbance in the air density that \ntravels outward. When this disturbance reaches \nour ears, we perceive it as a loud sound pulse.",
+    "token_count": 234
+  },
+  {
+    "chunk_id": "chunk_0019",
+    "source": "data/iesc110.pdf",
+    "page": 7,
+    "content_type": "prose",
+    "text": "A similar but more complex disturbance is produced when a supersonic \naircraft (Fig. 10.11) flies at a speed higher than the speed of sound, creating \na loud sound known as a sonic boom. Fig. 10.11: A supersonic \naircraft\nDid you notice (Fig. 10.9) that the displacement of the medium is parallel \nto the direction of wave propagation? In sound waves, the particles of the \nmedium vibrate back and forth parallel to the direction of propagation \nof disturbance (Fig. 10.12). Such waves where the particles vibrate in a \ndirection parallel to the direction of the wave propagation are known as \nlongitudinal waves. Direction of particle vibration\nDirection of wave \npropagation\nFig. 10.12: A longitudinal wave\nIf there is no medium (i.e., no particles), is the propagation of sound \nwaves possible? Without a material medium, sound waves cannot \npropagate. Waves that require a material medium for propagation are \ncalled mechanical waves. Sound wave is a type of a mechanical wave.",
+    "token_count": 222
+  },
+  {
+    "chunk_id": "chunk_0020",
+    "source": "data/iesc110.pdf",
+    "page": 8,
+    "content_type": "question_or_exercise",
+    "text": "Sound Waves: Characteristics and Applications\n191\nMechanical \nwaves \nare \nof \ntwo \ntypes: \nlongitudinal waves and transverse waves. Sound wave is an example of a longitudinal \nwave where the particles vibrate parallel to \nthe direction of the wave propagation. In a \ntransverse wave, the particles vibrate in a \ndirection perpendicular to the direction of \nwave propagation (Fig. 10.13). Earthquakes produce seismic waves that travel through the Earth. These waves \ncould be longitudinal or transverse. The longitudinal seismic waves are the first to be \ndetected by seismographs that detect the earthquakes. Not all waves are mechanical waves, i.e., not all waves need a medium to \npropagate. Light, which is a transverse wave, can travel through vacuum. This is \nwhy light from the Sun and other stars can reach the Earth. You will study waves \nin more detail in higher grades. Ready to Go Beyond \nNext\nLevel\nUp\nFig. 10.13: Transverse Wave\nDirection of particle \nvibration\nDirection of wave \npropagation\n4. Assertion (A): Compressions and rarefactions move through the medium.",
+    "token_count": 245
+  },
+  {
+    "chunk_id": "chunk_0021",
+    "source": "data/iesc110.pdf",
+    "page": 8,
+    "content_type": "question_or_exercise",
+    "text": "Reason (R): Individual particles of the medium continuously move forward with \nthe wave. Choose the correct statement:\n\t\n(i)\t Both A and R are true, but R is not the correct explanation of A. (ii)\t Both A and R are true, and R is the correct explanation of A. (iii)\t A is true, but R is false. (iv)\t A is false, but R is true. Pause and Ponder\n10.4 Energy of Sound Waves\nActivity 10.6: Let us experiment\n1. Take a wide mouthed container, a cellophane or \nrubber sheet (such as that of a balloon) of size \nlarger than its opening, a loud sound source \n(such as a metal plate and a beater) and some \ngrains or particles (such as rice, semolina, salt, \nor chalk powder). 2. Stretch the sheet over the edges of the container \ntightly and fix it with tape or a rubber band \n(Fig. 10.14). 3. Sprinkle the grains evenly over the sheet, \nensuring they are not clumped together. 4.",
+    "token_count": 238
+  },
+  {
+    "chunk_id": "chunk_0022",
+    "source": "data/iesc110.pdf",
+    "page": 8,
+    "content_type": "prose",
+    "text": "Produce a loud sound near the bowl without \ntouching it. Observe the grains on the sheet. Does the sound have any effect on the grains? Fig. 10.14: Sound moving grains \n(coloured)",
+    "token_count": 45
+  },
+  {
+    "chunk_id": "chunk_0023",
+    "source": "data/iesc110.pdf",
+    "page": 9,
+    "content_type": "prose",
+    "text": "192\nExploration|Grade 9\n5. Repeat step 4 with different sources of sounds and observe the effect \non the grains. You can try increasing or reducing the volume of sound. Try with different grains. Do you observe the grains over the sheet move or jump? Why does this \nhappen, even though the source of sound is not touching the sheet or the \ncontainer? As sound propagates through air, it reaches the sheet and makes \nit vibrate. This vibration causes the grains to move. This shows that sound is a form of energy. When the source of sound \nvibrates, it transfers energy to the surrounding medium. As sound waves \npropagate in a medium, the vibration of particles of the medium and their \ncollisions with other particles result in the transfer of energy. Microphones (Fig. 10.15a) that help \nus capture sound from various \nsources convert sound energy to \nelectrical energy. When we speak or \nsing into a microphone, the sound \nwaves make a thin membrane, \ncalled a diaphragm, vibrate. These \nvibrations \nare \nconverted \ninto \nan electrical signal. A speaker \n(Fig.",
+    "token_count": 246
+  },
+  {
+    "chunk_id": "chunk_0024",
+    "source": "data/iesc110.pdf",
+    "page": 9,
+    "content_type": "prose",
+    "text": "10.15b) does the opposite; an electrical signal makes a \ncone or diaphragm attached inside the speaker vibrate, which \nproduces sound. If all components work properly, the sound \nfrom the speaker closely matches the originally captured sound. Bridging Science and Society\nFig. 10. 15: (a) A microphone, \n(b) a speaker\n(a)\n(b)\nPause and Ponder\n5. When sound travels from a tuning fork to your ear, which of the \nfollowing actually reaches your ear? (i)\t Air particles near the tuning fork\n\t\n(ii)\t Energy carried by sound waves\n\t (iii)\t The tuning fork material\n\t (iv)\t A continuous stream of compressed air\n10.5 Graphical Representation of a Sound Wave\nAs a sound wave propagates, at any given instant of time the density of \nthe medium varies periodically with distance from the source. Fig. 10.16a \nshows the periodic variation of density with distance at any given instant \nof time. The graph corresponding to it is shown in Fig. 10.16b where the \ndistance is plotted on the x-axis, while the density of the medium is plotted \non the y-axis.",
+    "token_count": 250
+  },
+  {
+    "chunk_id": "chunk_0025",
+    "source": "data/iesc110.pdf",
+    "page": 9,
+    "content_type": "prose",
+    "text": "The average density is marked as a horizontal dashed line. The density varies (above and below the average density) with distance at \na given instant of time. Note\nIn the \npropagation \nof a sound \nwave, it is the \nenergy that is \ntransferred, not \nthe particles of \nthe medium. Particles in a medium \nare never truly at \nrest. They are always \nrandomly vibrating \ndue to thermal energy. When a sound wave \npasses through the \nmedium, it temporarily \nincreases the vibration \nof these particles. After \nthe wave passes, the \nparticles return to their \nusual random motion. Ready to Go \nBeyond",
+    "token_count": 137
+  },
+  {
+    "chunk_id": "chunk_0026",
+    "source": "data/iesc110.pdf",
+    "page": 10,
+    "content_type": "prose",
+    "text": "Sound Waves: Characteristics and Applications\n193\nAnother way to make a graphical representation of a sound wave is to plot the \nvariation of density of the medium with time, at a particular location in the medium. Ready to Go Beyond \nIn the region of a compression, the density of the medium increases \nabove the average density and the highest point represents the maximum \ndensity (Fig. 10.16b). Thereafter, the density decreases and eventually falls \nbelow the average density in the region of rarefaction and the lowest point \nrepresents the minimum density. The highest point is called the crest and \nthe lowest point is called the trough of the wave. 6. The variation of density of the medium for two sound waves is shown in Fig. 10.17 (a) \nand (b). Label compression and rarefaction by C and R on it. In the graph given in Fig. 10.17 \n(c) and (d), label the axes and draw the curves corresponding to Fig. 10.17 (a) and (b). Pause and Ponder\nFig. 10.17: Drawing graph to represent the variation of density of the medium for two sound waves\n(c)\n(a)\n(d)\n(b)\nFig.",
+    "token_count": 249
+  },
+  {
+    "chunk_id": "chunk_0027",
+    "source": "data/iesc110.pdf",
+    "page": 10,
+    "content_type": "prose",
+    "text": "10.16: For a sound wave (a) variation of density of medium, \n(b) graphical representation of variation of density with distance\nDensity\nAbove average density\nBelow average density\nAverage density\nDistance\nCrest\nTrough\n(a)\n(b)\nC\nR\nC\nR\nC\nR\nCrest\nCrest\nTrough\nTrough",
+    "token_count": 79
+  },
+  {
+    "chunk_id": "chunk_0028",
+    "source": "data/iesc110.pdf",
+    "page": 11,
+    "content_type": "prose",
+    "text": "194\nExploration|Grade 9\n10.6 Characteristics of a Sound Wave\n10.6.1 Wavelength, frequency and time period\nLet us learn about some quantities which are used to describe a \nsound wave. The distance between the two consecutive crests or \ntwo consecutive troughs is called the wavelength of a wave. This \nis shown in Fig. 10.18 where two sound waves are shown with long \nand short wavelengths. The wavelength is usually represented by \nλ (Greek letter lambda). Its SI unit is the metre (m). Another characteristic of sound wave is how often the density \nvariations occur at a given position in the medium when a sound \nwave passes through that position. The density of the medium at \nthe given position changes alternately between a maximum density \n(crest) and a minimum density (trough). The change in the density of \nthe medium at a fixed point, from maximum to minimum and then \nagain to maximum (or vice versa), makes one complete oscillation. The number of density oscillations at a fixed point per unit time \nis the frequency of the sound wave. It is usually represented by \nν  (Greek letter nu).",
+    "token_count": 245
+  },
+  {
+    "chunk_id": "chunk_0029",
+    "source": "data/iesc110.pdf",
+    "page": 11,
+    "content_type": "question_or_exercise",
+    "text": "Its SI unit is per second (  or s–1) also called a \nhertz (symbol Hz). The time taken for one complete density oscillation at a fixed \npoint is defined as the time period of the wave. The time period of \nthe wave is represented by the symbol T. Its SI unit is second (s). The time period and frequency are inversely related; a shorter \ntime period corresponds to a higher frequency. T\nν = 1 \t\b\n(10.1)\nUsually, everyday sounds contain a mixture of many frequencies. Nearly single frequency sounds can be made by striking a tuning \nfork (Section 10.1.1) or by oral whistling. Activity 10.7: Let us experiment (demonstration activity)\nThis activity is recommended to be performed as a classroom group \nactivity facilitated by the teacher. 1. Use a mobile app, such as Phyphox that can identify frequencies \nof sounds. Use the ‘Audio Spectrum’ option that displays the \nfrequency graphically or in hertz (Hz). 2.",
+    "token_count": 222
+  },
+  {
+    "chunk_id": "chunk_0030",
+    "source": "data/iesc110.pdf",
+    "page": 11,
+    "content_type": "prose",
+    "text": "Try to sing the musical notes ‘Sa, Re, Ga, Ma, Pa, Dha, Ni, Sa’ one \nafter another, or use a music or tone generating app on another \nphone to produce those notes. Observe how the frequency \nchanges as each note is produced. 3. Record the approximate frequency values for each musical \nnote. 4. Compare the musical notes by taking the ratio of each frequency \nwith respect to the ‘Sa’. Do you observe any pattern? 5. If both voice and mobile-generated notes are used, compare \ntheir frequencies for the same musical notes. Fig. 10.18: Sound waves \n(b) Short wavelength\nDensity\nC R C R C R C R C R C R\nDistance\n(a) Long wavelength\nDensity\nDistance\nC \nR \nC \nR\nThreads of \nCuriosity\nThere are some free \napps which can be \nused by the teacher \nto produce as well as \nidentify the sounds of \ndifferent frequencies. Phyphox is one such \napp. In fact, using \nthe ‘Audio Scope’ in \nthe Phyphox app and \nwhistling carefully \nwill often produce a \ngraph like Fig.",
+    "token_count": 249
+  },
+  {
+    "chunk_id": "chunk_0031",
+    "source": "data/iesc110.pdf",
+    "page": 11,
+    "content_type": "prose",
+    "text": "10.18 \nindicating that it \nis almost a single \nfrequency sound. λ\nλ\nλ\nλ",
+    "token_count": 24
+  },
+  {
+    "chunk_id": "chunk_0032",
+    "source": "data/iesc110.pdf",
+    "page": 12,
+    "content_type": "worked_example",
+    "text": "Sound Waves: Characteristics and Applications\n195\nDensity\nDistance\nAmplitude\nDensity\nDistance\nAmplitude\nC \nR \nC \nR \nC \nR\nC \nR \nC \nR \nC \nR\nFig. 10.20: Sound waves\n(a) Low amplitude\n(b) High amplitude\nIn this activity, you would have noticed that the frequency is lowest for \nthe ‘Sa’ and gradually increases for the other notes. Each musical note has \na distinct frequency, which makes it sound different. You can use the app \nto compare the frequencies of other sounds, including the voices of your \nfriends too. Example 10.1: If there are 10 density oscillations in 2 seconds at a given \nposition, then calculate the (i) frequency of sound wave, and (ii) its time \nperiod. Answer: \nnumber of oscillations\n10\n Frequency of sound wave = \n = \n = 5 Hz\ntime taken\n2 s\nTime taken for a single density oscillation at a position = 2 s\n \n = 0.2 s\n10\n7.",
+    "token_count": 231
+  },
+  {
+    "chunk_id": "chunk_0033",
+    "source": "data/iesc110.pdf",
+    "page": 12,
+    "content_type": "question_or_exercise",
+    "text": "Conduct Activity 10.1 once again with a thick rubber \nband and then with a thin rubber band. Does the \nthin rubber band vibrate faster than the thick \nrubber band? If yes, how do the frequency and time \nperiod of the sound produced by the thin rubber \nband differ from that of the thick rubber band? 8. If the frequency of a sound wave produced by an \noscillating piston of a long tube filled with air is \n20 Hz, then how many oscillations does the piston \ncomplete per minute? 9. For the sound wave represented by the graph shown \nin Fig. 10.19, what is half of its wavelength? Pause and Ponder\nDensity\nDistance (cm)\n0\n1.5\n3.0\n4.5\nFig. 10.19: Graphical representation \nof a sound wave\n10.6.2 Amplitude and intensity of the sound waves\nSound propagates as density \noscillations of the medium via \ncompressions and rarefactions. The amplitude of a sound wave \nis the maximum change in the \ndensity of air in a compression \n(or a rarefaction) compared to \nthe average density.",
+    "token_count": 247
+  },
+  {
+    "chunk_id": "chunk_0034",
+    "source": "data/iesc110.pdf",
+    "page": 12,
+    "content_type": "question_or_exercise",
+    "text": "A larger \nchange in density corresponds \nto a larger amplitude (Fig. 10.20). The \namplitude \nand \nthe \namount of energy a wave carries \nare related. A wave with a larger amplitude carries more energy than the one \nwith a smaller amplitude. This can be seen in Activity 10.6. When the plate \nis struck harder, more energy is transferred to the particles of surrounding \nmedium, causing larger displacements from their mean positions. As a result, \nthe sheet vibrates to a larger displacement and the grains jump higher. The amount of sound energy passing through a unit area perpendicular \nto the direction of the propagation of sound wave in a unit time is called the \nintensity of sound.",
+    "token_count": 150
+  },
+  {
+    "chunk_id": "chunk_0035",
+    "source": "data/iesc110.pdf",
+    "page": 13,
+    "content_type": "prose",
+    "text": "196\nExploration|Grade 9\nAs sound wave travels away from its source, \nit spreads over a larger area (Fig. 10.21). Since the \nenergy must be conserved, the same amount of \nenergy is now spread over a larger area. Hence, \nthe intensity decreases with distance from the \nsource. Sounds produced with initial larger \namplitude carry more energy and can travel a \nlarger distance before intensity reduces to zero. 10.6.3 Speed of Sound\nThe speed of sound describes how fast sound waves propagate through a \nmedium. In terms of compressions and rarefactions, one can think of speed \nas how fast these density disturbances propagate through the medium. The \nspeed of sound can be defined as the distance which a point on a wave, \nsuch as a crest (or a trough), travels in unit time. For a sound wave of given frequency, the distance between two \nconsecutive crests (or two consecutive troughs) is one wavelength ( λ ). This \ndistance is covered by the disturbance in one time period (T ).",
+    "token_count": 223
+  },
+  {
+    "chunk_id": "chunk_0036",
+    "source": "data/iesc110.pdf",
+    "page": 13,
+    "content_type": "prose",
+    "text": "Therefore, \nthe speed of sound (v ) is\ndistance\nspeed =  \ntime\n                           ⇒    v\nT\nλ\n=\nWe know that frequency \nT\nν = 1  (Eq. 10.1). Thus, \n\t\n\t\n\t\n\t\n         \nλ\nν\n×\nv =  \n \b\n(10.2)\nspeed = wavelength × frequency\nThe speed of sound depends on the medium through which it \ntravels. It travels fastest in solids, slower in liquids, and slowest in gases. For example, sound travels about 4 – 5 times faster in water and typically \n15 – 20 times faster in solids than in the air. The speed of sound in air also depends on the temperature and humidity. As we increase the temperature or humidity, the speed of sound increases. For example, the speed of sound in dry air is about 331 m s–1 at 0 ºC and \nnearly 344 m s–1 at 22 ºC. In most media, such as air the speed of sound depends only on the medium \nand not the source or the frequency.",
+    "token_count": 246
+  },
+  {
+    "chunk_id": "chunk_0037",
+    "source": "data/iesc110.pdf",
+    "page": 13,
+    "content_type": "worked_example",
+    "text": "If the frequency of the source changes, \nthe wavelength of the sound wave in the medium changes, while the \nspeed remains constant. Some special materials, such as porous foams or \nengineered structures can behave differently. Ready to Go Beyond \nExample 10.2: Human hearing roughly spans 20 Hz to 20 kHz. What are \nthe corresponding wavelengths in air for these two frequencies? Use the \nspeed of sound in air as 344 m s–1. Answer: Using the relation between wavelength (λ ), frequency (ν ), and \nspeed (v ),\nspeed of the wave = frequency × wavelength\nWhat if …\nthe speed of \nsound in air \ndepended on \nits frequency? Would music still \nsound pleasant \nwhen a singer \nperforms with \ninstruments? Why or why not? Point source\nFig. 10.21: Sound energy spreading \nover a larger area with distance",
+    "token_count": 190
+  },
+  {
+    "chunk_id": "chunk_0038",
+    "source": "data/iesc110.pdf",
+    "page": 14,
+    "content_type": "worked_example",
+    "text": "Sound Waves: Characteristics and Applications\n197\nλ\nspeed of the wave\nTherefore, wavelength  =  \nfrequency\n\t\n(i)\t For ν  = 20 Hz,        λ\n−\n−\n1\n1\n344 m s\n =  \n = 17.2 m \n20 s\n\t\n(ii)\tFor ν  = 20 kHz = 20000 Hz, \t     λ\n−\n−\n1\n1\n344 m s\n =  \n = 0.0172 m = 1.72 cm\n20000 s\nThe wavelength of sound in air corresponding to the frequency (i) 20 Hz is \n17.2 m, and (ii) 20000 Hz is 1.72 cm. Example 10.3: During a thunderstorm, lightning is seen before thunder \nis heard because sound travels much slower than light. If the time delay \nbetween seeing the lightning flash and hearing the thunder is measured to \nbe 5 s, estimate the distance to the lightning strike. Use the speed of sound \nin air as 340 m s–1. Assume that light (speed = 300000 km s–1) reaches you \nalmost instantaneously.",
+    "token_count": 248
+  },
+  {
+    "chunk_id": "chunk_0039",
+    "source": "data/iesc110.pdf",
+    "page": 14,
+    "content_type": "worked_example",
+    "text": "Answer: Distance = v × t = 340 m s–1 × 5 s = 1700 m \nLightning struck about 1.7 km away. Example 10.4: From the graphical representation of \na sound wave propagating in steel (Fig. 10.22), find its \nwavelength. Calculate its frequency and time period if \nthe speed of sound in steel is 5000 m s–1. Answer: From graph (Fig. 10.22), the wavelengthλ = 50 m \nUsing Eq. (10.2), the frequency of the sound wave is\nν\nλ\n−1\n5000 m s\n =\n= \n = 100 Hz\n50 m\nv\nUsing Eq. (10.1), the time period of the sound wave is\nν\n1\n1\n=   = \n = 0.01 s \n100 Hz\nT\n10. Table 10.1 shows the speed of sound in a few media at atmospheric pressure.",
+    "token_count": 209
+  },
+  {
+    "chunk_id": "chunk_0040",
+    "source": "data/iesc110.pdf",
+    "page": 14,
+    "content_type": "prose",
+    "text": "Table 10.1: Speed of sound in different media at 15 °C\n\t\nState\nSubstance/Medium\nApproximate speed \nSolid\nSteel\n5000 m s–1\nLiquid\nWater\n1500 m s–1\nGas\nAir\n340 m s–1\n\t\nCompare the speeds in different media by finding the ratio of \n\t\n\t(i)\t the speed of sound in water with respect to the speed in the air. (ii)\t the speed of sound in steel with respect to the speed in the water. Pause and Ponder\nDensity\nDistance (m)\n0\n25\n50\n75\nFig. 10.22: Graphical representation of a \nsound wave",
+    "token_count": 143
+  },
+  {
+    "chunk_id": "chunk_0041",
+    "source": "data/iesc110.pdf",
+    "page": 15,
+    "content_type": "prose",
+    "text": "198\nExploration|Grade 9\n11. Two friends are standing along a steel \nfence at a distance of 340 m from each \nother (Fig. 10.23). Gunjan places her ear \nover the fence and her friend knocks \nthe fence with a metal object. Using the \nvalues of the speed of sound in steel \nand air given in Table 10.1, calculate \nthe time difference between the sound \nthat reached Gunjan through the air \nand the steel. Would it have been possible for her to distinguish between the two \nsounds? (The time interval between two sounds must be at least 0.1 s to be heard \nseparately.)\nFig. 10.23: Time difference between the \nsound reaching through air and steel\n10.6.4 Human perception of sound\nThe physical properties of sound, such as time period, wavelength, \nfrequency, amplitude and speed are well-defined and can be measured. However, how we experience sound is subjective. Human perception of \nsound is described by terms, such as loudness and pitch which do not have \nsimple relations with the physical properties. Pitch\nHow frequency is perceived by humans is called pitch.",
+    "token_count": 245
+  },
+  {
+    "chunk_id": "chunk_0042",
+    "source": "data/iesc110.pdf",
+    "page": 15,
+    "content_type": "question_or_exercise",
+    "text": "Sounds perceived \nto be shrill, such as a whistle or a siren are said to have high pitch, while \ndeep sounds like thunder or an aircraft rumble have low pitch. In general, \nhigh pitch sounds have higher frequency and low pitch sounds have lower \nfrequency, although the exact mathematical relation is complicated. Threads of Curiosity\nEveryone’s voice sounds unique and you can often instantly recognise your teacher \nor friends calling out your name. Why do our voices sound different? Male, female, \nand children’s voices differ not just in their frequency but also on how the sound is \nshaped by the throat, mouth, and nasal cavities. During adolescence, boys’ vocal cords \nof boys lengthen and thicken, vibrating less frequently thus, ‘deepening’ their voice. Let us carry out an activity to listen and appreciate sounds at different \nfrequencies. Activity 10.8: Let us experiment (demonstration activity)\nThis activity is recommended to be performed as a classroom group activity \nfacilitated by teacher. 1. Open a mobile app that can generate sounds. 2. Set the frequency to 100 Hz, tap ‘play’, and listen carefully. 3.",
+    "token_count": 244
+  },
+  {
+    "chunk_id": "chunk_0043",
+    "source": "data/iesc110.pdf",
+    "page": 15,
+    "content_type": "prose",
+    "text": "Increase the frequency in steps of 100 Hz up to 1000 Hz and describe \nhow the sound changes. 4. Next, set the frequency to 50 Hz. Reduce the frequency till about 20 Hz \nor the point where you cannot hear the sound anymore.",
+    "token_count": 55
+  },
+  {
+    "chunk_id": "chunk_0044",
+    "source": "data/iesc110.pdf",
+    "page": 16,
+    "content_type": "prose",
+    "text": "Sound Waves: Characteristics and Applications\n199\nCan humans hear all sounds? Humans can only hear a limited range of \nsound frequencies. The audible range or the human hearing range is from \n20 Hz to 20,000 Hz (20 kHz). However, this range varies from person to \nperson and decreases with age. Sound waves with frequency below 20 Hz \nare called infrasonic waves, while sound waves with frequency above \n20 kHz are called ultrasonic waves. Humans cannot hear infrasound or \nultrasound but some animals can. Dogs, cats, bats, dolphins can detect \nultrasound, while elephants can detect infrasound. Loudness\nHumans perceive the amplitude of a sound wave as loudness. Sounds with \nlarger amplitude are heard louder, while those with smaller amplitude \nsound softer. The loudness decreases as we move farther away from the \nsource. In everyday language, loudness and intensity are often used \ninterchangeably. However, intensity is a measurable quantity, whereas \nloudness depends on the listener’s hearing ability. Sound loudness is commonly measured in decibels (dB).",
+    "token_count": 231
+  },
+  {
+    "chunk_id": "chunk_0045",
+    "source": "data/iesc110.pdf",
+    "page": 16,
+    "content_type": "prose",
+    "text": "Very soft sounds like rustling \nleaves are around a few dB, normal conversation is about 60 dB, while very loud \nsounds, such as firecrackers can exceed 100 dB. Even a small increase in the dB level \nmeans a large increase in the sound intensity. Unwanted or harmful sound is called noise. Noise pollution is a severe problem. Exposure to sound levels above recommended limits, especially for long durations \ncan affect health, sleep, and hearing. Prolonged exposure to loud sound can lead to \nhearing loss, which can be tested using audiograms. People with hearing loss may \nuse hearing aids, which consist of a microphone, amplifier, and speaker to help the \nwearer hear and communicate better. Bridging Science and Society\nReady to Go Beyond \nWe often do not realise how amazing our sense of \nhearing is. When sound enters the ear, it causes a thin \nmembrane called the eardrum to vibrate (Fig. 10.24). Tiny bones quickly amplify these vibrations and the \ncochlea converts them into electrical signals that rush \nto the brain, which perceives them as sound.",
+    "token_count": 238
+  },
+  {
+    "chunk_id": "chunk_0046",
+    "source": "data/iesc110.pdf",
+    "page": 16,
+    "content_type": "prose",
+    "text": "Having two ears allows the brain to pinpoint the \ndirection of the origin of sound. By comparing which \near hears the sound first, it figures out where the \nsound came from based on the tiny time gap between \nthe two (often less than a thousandth of a second). Animals hear in different ways. Snakes and fish \nsense vibrations through their bodies, while some \ninsects have ear-like organs on their body parts. Fig. 10.24: A schematic \ndiagram of human ear\nCochlea\nEar drum",
+    "token_count": 110
+  },
+  {
+    "chunk_id": "chunk_0047",
+    "source": "data/iesc110.pdf",
+    "page": 17,
+    "content_type": "prose",
+    "text": "200\nExploration|Grade 9\nA tone is a sound of a single frequency like that \nproduced by a tuning fork or by oral whistling \n(Fig. 10.25a). A musical note like the sound \nproduced by plucking a tanpura string or \nsinging (Fig. 10.25b) is a combination of a lowest \nfrequency called the fundamental and higher \nfrequencies called overtones, which together \ncreate a rich and pleasant sound. Indian string \ninstruments like the sarangi, sitar, and veena \noften use extra strings to enrich this combination. Even when different instruments like a \nflute, ektara, or tabla play the same note at the \nsame loudness each sounds unique. This quality \nis called timbre, and comes from their shape, \nmaterial and construction, which determine the \npattern and intensity of the overtones. An octave is the interval between two notes where one has double the frequency \nof the other (for example, 200 Hz and 400 Hz), measured between their fundamental \nfrequencies. Threads of Curiosity\nFig.",
+    "token_count": 234
+  },
+  {
+    "chunk_id": "chunk_0048",
+    "source": "data/iesc110.pdf",
+    "page": 17,
+    "content_type": "prose",
+    "text": "10.25: Schematic representation \nof the sound produced by \n(a) a vibrating tuning fork or a person \nwhistling, and (b) a child singing\n(a)\n(b)\nSir C. V. Raman won India’s first Nobel Prize in Science for \ndiscovering the Raman Effect in light. He also made important \ncontributions to acoustics by studying Indian percussion \ninstruments, such as the tabla and mridangam to understand \nhow they produce rich and nuanced sounds. Meet a Scientist\nIndian drums like the tabla (Fig. 10.26) or mridangam \nhave a black patch at the centre of the drum head \nmembrane called the syaahi. This patch alters the \nvibration of the membrane, allowing these instruments \nto produce a rich variety of sounds. The syaahi also gives \na level of tonal control rarely found in other drums. Threads of Curiosity\nFig. 10.26: A tabla set\n10.7 Reflection of Sound \nSound waves can bounce off obstacles like solids or liquids and this is \nknown as the reflection of sound. Sound follow the same laws of reflection \nas those of light which you have learned earlier.",
+    "token_count": 250
+  },
+  {
+    "chunk_id": "chunk_0049",
+    "source": "data/iesc110.pdf",
+    "page": 17,
+    "content_type": "prose",
+    "text": "The directions in which \nthe sound is incident and is thereafter reflected make equal angles with the \nnormal to the reflecting surface at the point of incidence, with all three \nlying in the same plane. One of the most common examples of the reflection \nof sound is an echo. Grade 8\nCuriosity\nChapter 10",
+    "token_count": 66
+  },
+  {
+    "chunk_id": "chunk_0050",
+    "source": "data/iesc110.pdf",
+    "page": 18,
+    "content_type": "prose",
+    "text": "Sound Waves: Characteristics and Applications\n201\n10.7.1 Echo\nIf we shout near a mountain, a cliff, or in a long corridor we may hear our \nvoice again after some time. This is known as an echo. The sound reflects \noff the hard surface of a distant object and comes back to us. Echoes aren’t heard everywhere. In a small room, wall reflections \narrive too quickly for the brain to separate them from the original sound. If the time gap between two sounds reaching us is at least 0.1 s, we can \nhear them as separate sounds. If it is less than 0.1 s, then we cannot clearly \ndistinguish between them. This time duration of 0.1 s can help us estimate \nthe minimum distance of a reflecting surface from which we can hear \nan echo.",
+    "token_count": 176
+  },
+  {
+    "chunk_id": "chunk_0051",
+    "source": "data/iesc110.pdf",
+    "page": 18,
+    "content_type": "worked_example",
+    "text": "If we take the speed of sound as 340 m s–1, the distance travelled by \nsound in 0.1 s is \ndistance = speed × time = 340 m s–1 × 0.1 s = 34.0 m\nNote that 34 m would be the distance travelled by sound from the source \nto the reflecting surface and back. Hence, the minimum echo distance is \nhalf of this or 17 m. Echoes are stronger from hard and smooth surfaces that reflect sound. Soft surfaces like curtains tend to absorb sound, while rough surfaces \nscatter it in different directions, and in such cases it is not possible to hear \nthe echoes clearly. Example 10.5: You clap in an empty corridor and hear an echo after \n0.5 s. If the speed of sound in air is 340 m s–1, calculate your distance \nfrom the wall. Answer: Sound travels to the wall and back, thus,\n−\n×\n×\n1\n340 m s\n 0.5 s\ndistance from wall =\n= \n = 85 m\n2\n2\nv  t\n  \n12.",
+    "token_count": 239
+  },
+  {
+    "chunk_id": "chunk_0052",
+    "source": "data/iesc110.pdf",
+    "page": 18,
+    "content_type": "prose",
+    "text": "An experiment is being set up that requires echoes to arrive at least 0.2 s \nafter the emission of sound. What minimum distance should a reflecting \nsurface be placed at? Assume the speed of sound to be 343 m s–1. Pause and Ponder\n10.7.2 Reverberation\nSometimes the emitted sound can undergo multiple reflections from \nthe walls in a large hall or auditorium. Multiple reflections make sound \npersist after the source stops emitting sound, a phenomenon called \nreverberation. This occurs when sound reflections from surfaces arrive \nwith a time difference less than 0.05 s. Modern auditoriums and large concert halls are architecturally \ndesigned to have desirable reverberations, which allow the audience \neverywhere to hear speech, music, and other sounds clearly without any \ndistortions. Sound absorbing panels, upholstered chairs, curtains and \nother soft, porous surfaces reduce reverberations by unwanted sources \notherwise it could lead to a garbled sound.",
+    "token_count": 209
+  },
+  {
+    "chunk_id": "chunk_0053",
+    "source": "data/iesc110.pdf",
+    "page": 19,
+    "content_type": "prose",
+    "text": "202\nExploration|Grade 9\nThreads of Curiosity\nMedieval architects across the world, including in India, designed several monuments with deep \nacoustic insights. The renowned Whispering Gallery of the Gol Gumbaz in Bijapur, Karnataka, \nhas a remarkable design that allows even a faint whisper to be heard multiple times across the \nlarge dome. 10.8  \u0007Ultrasonic and Infrasonic Waves, and their \nApplications\nSound waves with frequencies outside the human audible range have \nimportant applications in science, medicine, and technology.",
+    "token_count": 115
+  },
+  {
+    "chunk_id": "chunk_0054",
+    "source": "data/iesc110.pdf",
+    "page": 19,
+    "content_type": "prose",
+    "text": "Sound waves\nInfrasonic waves\n(less than 20 Hz)\nUsed for detecting natural events, such as \nearthquakes and volcanic eruptions\nUsed for detecting severe storms as such waves \ntravel long distances through air and the Earth\nUsed for imaging internal organs without \nsurgery (known as ultrasonography)\nUsed for breaking kidney stones into smaller \npieces, which can then be passed out of the body\nUsed for ultrasonic welding and for cleaning \ndelicate machine parts in industries\nUsed for detecting defects inside metal blocks \nduring construction and industrial testing\nUsed for locating objects when sound waves get \nreflected off them\nHuman audible range \n(20 Hz to 20 kHz)\nUltrasonic waves\n(more than 20 kHz)\nThreads of Curiosity\n10.8.1 Echolocation\nBats are nocturnal creatures that fly and \nsearch for their prey in the dark without \ncolliding into objects. Most bats emit short \nbursts of ultrasonic waves which are \nreflected from nearby objects. By sensing \nthe echoes the bat can determine the \nposition of obstacles and prey (Fig. 10.27).",
+    "token_count": 235
+  },
+  {
+    "chunk_id": "chunk_0055",
+    "source": "data/iesc110.pdf",
+    "page": 19,
+    "content_type": "prose",
+    "text": "This \nability \nto \nlocate \nobjects \nusing reflected sound waves is called \necholocation. Besides bats, animals such as \ndolphins, whales, and some birds also use \necholocation for navigation and hunting. Fig. 10.27: Echolocation by bats\nUltrasonic \nwaves sent \nfrom the bat\nUltrasonic waves \nreflected from the \nprey\nhumans could \ndetect ultrasonic \nwaves like dogs \ncan? What \nwould be the \nadvantages and \ndisadvantages? What if …",
+    "token_count": 115
+  },
+  {
+    "chunk_id": "chunk_0056",
+    "source": "data/iesc110.pdf",
+    "page": 20,
+    "content_type": "worked_example",
+    "text": "Sound Waves: Characteristics and Applications\n203\nHumans have adapted \nthe \nsame \nprinciple \nin \nunderwater \nexploration \nthrough \nsonar \n(sound \nnavigation and ranging). In sonar, ultrasonic waves \nare sent into water and \nthe reflected waves are \nanalysed \nto \ndetermine \nthe \ndistance, \ndirection, \nand speed of underwater \nobjects, such as submarines \nor shipwrecks (Fig. 10.28). Example 10.6: A naval sonar signal sent into seawater returns after 0.90 s. The speed of sound in seawater is 1530 m s–1. How far is the object? Answer: Time taken for the signal to reach the object and travel back = 0.90 s\nTime taken to reach the object is half of above time \n0.90 s\n= \n = 0.45 s\n2\n    \nThus, distance = speed × time = 1530 m s–1 × 0.45 s = 688.5 m\nDrones (Fig. 10.29) and aircrafts produce characteristic \nsound from their motors and engines.",
+    "token_count": 243
+  },
+  {
+    "chunk_id": "chunk_0057",
+    "source": "data/iesc110.pdf",
+    "page": 20,
+    "content_type": "prose",
+    "text": "Even when they are \nhard to see, the low frequency humming they generate can \nbe detected using sensitive sound sensors. This method, \ncalled audio surveillance, helps monitor airspace for safety \nand security. Bridging Science and Society\nFig. 10.29: A drone\n13. Sound travels much farther in water than light, and thus, is used for various \nunderwater applications. A sonar signal sent to find the depth of ocean takes 4 s \nto return. What is the depth of the ocean at that location if the speed of sound in \nseawater is 1500 m s–1? Pause and Ponder\nThe Quest Continues …\nSound helps us explore places and phenomenon beyond human hearing. Space \nprobes have recorded the first sounds from Mars, scientists are timing the sound of \ndistant earthquakes to measure tiny changes in ocean temperature to understand \nthe Earth’s changing climate, biologists are using the buzz of mosquitoes to identify \ndisease-carrying mosquitoes, and researchers are listening to the tiny crackles \nproduced by microbes in the soil to study soil health and biodiversity.",
+    "token_count": 232
+  },
+  {
+    "chunk_id": "chunk_0058",
+    "source": "data/iesc110.pdf",
+    "page": 20,
+    "content_type": "prose",
+    "text": "As technology \nimproves, sound is becoming an even more powerful tool to explore planets, living \norganisms, and the hidden activities of nature. Fig. 10.28: Functioning of sonar\nUltrasonic \nwaves sent \nfrom the ship\nUltrasonic waves \nreflected from the \nsubmarine",
+    "token_count": 65
+  },
+  {
+    "chunk_id": "chunk_0059",
+    "source": "data/iesc110.pdf",
+    "page": 21,
+    "content_type": "question_or_exercise",
+    "text": "204\nExploration|Grade 9\n1. Which observation best supports the idea that sound is a mechanical \nwave? (i)\t Sound shows reflection\n(ii)\t Sound needs a medium to propagate\n(iii)\t Sound has frequency\n(iv)\t Sound carries energy\n2. For a sound wave propagating in a medium, increasing its frequency \nwill increase its\n(i)\t wavelength\n(ii)\t speed\n(iii)\t number of compressions per second\n(iv)\t time period\nRevise, Reflect, Refine\nAt a Glance\n\ty Sound is produced by vibrating objects. y Sound is a longitudinal mechanical wave that needs a medium to travel. y Sound can propagate through solids, liquids and gases. y In sound propagation, it is the density disturbance that travels and \nnot the particles of the medium. The particles of the medium only \nvibrate about their mean positions as the sound wave passes. y The distance between the two consecutive crests or two consecutive \ntroughs is called the wavelength of a wave.",
+    "token_count": 214
+  },
+  {
+    "chunk_id": "chunk_0060",
+    "source": "data/iesc110.pdf",
+    "page": 21,
+    "content_type": "prose",
+    "text": "y The change in density of the medium at a fixed point, from maximum \nto minimum, and then again to the maximum (or vice versa), makes \none complete oscillation. y The number of density oscillations at a fixed point per unit time is \nthe frequency of the sound wave. y The time taken for one complete density oscillation at a fixed point is \ndefined as the time period of the wave. y The amplitude of a sound wave is the maximum change in air density \nin a compression (or a rarefaction) compared to the average density. y The amount of sound energy passing through a unit area \nperpendicular to the direction of the propagation of sound wave in \na unit time is called the intensity of sound. y The speed of sound can be defined as the distance which a point on a \nwave, such as a crest (or a trough), travels in unit time. y Echoes and reverberations are heard because of the reflection of \nsound from various surfaces. y Sound waves with frequency below 20 Hz are called infrasonic waves. Sound waves with frequency above 20 kHz are called ultrasonic \nwaves.",
+    "token_count": 234
+  },
+  {
+    "chunk_id": "chunk_0061",
+    "source": "data/iesc110.pdf",
+    "page": 22,
+    "content_type": "prose",
+    "text": "Sound Waves: Characteristics and Applications\n205\n3. If 20 compressions pass a point in 4 seconds, the frequency is\n(i)\t 80 Hz\n(ii)\t 5 Hz\n(iii)\t 10 Hz\n(iv)\t 0.2 Hz\n4. In a room, the reflected sound reaches the ear 0.05 s after its production. Will it produce an echo or reverberation? Justify your answer. 5. Graphs representing two sound waves are given in Fig. 10.30. If the \nscales on the X and Y axes of the two graphs are the same, which \nof the two sound waves has (i) greater wavelength, and (ii) smaller \namplitude? Density\nDistance\nDensity\nDistance\nFig. 10.30\n(a)\n(b)\n6. The sound waves emitted by three sources A, B and C are represented \nin Fig. 10.31. If the frequency of A is maximum and C is minimum, \nidentify the corresponding curves, and mark A, B and C on them. Distance\nDensity\nFig. 10.31\n7.",
+    "token_count": 236
+  },
+  {
+    "chunk_id": "chunk_0062",
+    "source": "data/iesc110.pdf",
+    "page": 22,
+    "content_type": "prose",
+    "text": "Draw a graph to represent a sound wave for which the density \namplitude is 3 units and wavelength is 4 cm. 8. In a movie, while showing the explosion of a spacecraft in space, a \nflash of light is shown along with sound at the same time. What are the \nerrors in this depiction? 9. A source produces a sound wave of wavelength 3.44 m. If the wave \ntravels with a speed of 344 m s–1 find its time period. 10. A ship searching for a sunken ship sent a sonar signal and detected \nan echo after 5 s. If ultrasonic wave travels at 1525 m s–1 in seawater, \napproximately how far down in the ocean is the wreckage of the \nsunken ship located? 11. A vehicle is fitted with an ultrasonic distance sensor as part of parking \nassistance system which provides echolocation, while the driver is \nreversing the vehicle. It emits ultrasonic wave (about 40 kHz) which \nis reflected by the obstacle.",
+    "token_count": 226
+  },
+  {
+    "chunk_id": "chunk_0063",
+    "source": "data/iesc110.pdf",
+    "page": 22,
+    "content_type": "prose",
+    "text": "When the warning beep starts sounding \nat a distance of 1.2 m from the obstacle, how much time is taken by \nultrasonic wave to travel to the obstacle and come back? Assume the \nspeed of ultrasonic wave in air to be 345 m s–1.",
+    "token_count": 60
+  },
+  {
+    "chunk_id": "chunk_0064",
+    "source": "data/iesc110.pdf",
+    "page": 23,
+    "content_type": "prose",
+    "text": "206\nExploration|Grade 9\n12. The speed of sound in air is about 331 m s–1 at 0 ºC and nearly \n344 m s–1 at 22 ºC. Roughly how much extra time will the sound of \nthunder take to travel a distance of 1720 m, if the air temperature \nchanges from 22 ºC to 0 ºC? Assume that all other conditions remain \nunchanged. 13. The variation of density of medium for a sound wave propagating \nwith a speed of 340 m s–1 is shown in Fig. 10.32. Calculate the \nwavelength and frequency of the sound wave. Fig. 10.32\n8 cm\n14. The graphical representation of two sound waves A and B propagating \nat the same speed of 345 m s–1 is shown in Fig. 10.33. What is the \nwavelength of each of them? Also, calculate their frequencies. 15. Distance (cm)\nFig.",
+    "token_count": 216
+  },
+  {
+    "chunk_id": "chunk_0065",
+    "source": "data/iesc110.pdf",
+    "page": 23,
+    "content_type": "prose",
+    "text": "10.33\n2.5\n5.0\nDensity\n0\nB\nA\nTwo identical sound sources are placed at A and B — one in air and \none submerged in water (Fig. 10.34). Both produce sounds at the same \ntime, which travel horizontally to the vertical side of the cliff and \ncome back. If the time taken by the sound to return to A is 4.5 times \nthan that of B, what is the ratio between the speeds of sound in air \nand water? Fig. 10.34\nB\nA",
+    "token_count": 123
+  },
+  {
+    "chunk_id": "chunk_0066",
+    "source": "data/iesc110.pdf",
+    "page": 24,
+    "content_type": "prose",
+    "text": "Sound Waves: Characteristics and Applications\n207\n\ty Many people use earphones extensively these days. Find out the \nresearch studies that might have been done to understand the impact \nof excessive use of earphones on hearing (if any). Also, find out how \nhearing is tested and what are the decibel ranges for defining mild, \nmoderate and severe hearing loss. What are the government schemes \nfor purchasing or fitting of aids or appliances and free cochlear \nimplants? Write an article on your findings. y Make a cone using a poster paper or cardboard and adhesive tape. Cover a mobile phone that is playing music with the cone. Compare \nthe loudness of the sound with and without the cone. You can also use \nanother mobile phone with an app to measure the characteristics of the \nsound in both cases. Try experimenting with different shapes and record \nyour observations. (This activity is to be facilitated by the teacher.)\n\ty How does the curved design of ceilings and walls behind the stage \nin concert and conference halls improve the quality of sound for the \naudience compared to flat surfaces? You may consult an architect or \nsearch it on the internet.",
+    "token_count": 236
+  },
+  {
+    "chunk_id": "chunk_0067",
+    "source": "data/iesc110.pdf",
+    "page": 24,
+    "content_type": "prose",
+    "text": "y Carry out a simple activity to measure the speed of sound, along with a \nfriend in a large open ground of size 200 m or more. (This activity is to \nbe facilitated by the teacher.)\n(i)\t Your friend stands at one end of the open ground with the \nballoons, while you stand at the other end with the stopwatch. (ii)\t Signal your friend to burst one balloon. When you see the balloon \nburst, start the stopwatch. As soon as you hear the ‘pop’ sound of \nthe bursting balloon, stop the timer and note down the reading. (iii)\t Repeat this experiment multiple times and take the average value \nof the times noted. (iv)\t Note the approximate distance between you and your friend using \na map application on a mobile phone. (v)\t Divide the distance measured with the average time to get the \naverage speed of sound. What value of speed did you get from the \nexperiment? Compare it with the speed of sound in air, which is \ntypically about 346 m s–1 at 25 °C. (vi)\t Why did you measure the time between ‘seeing’ and ‘hearing’ the \nballoon burst?",
+    "token_count": 247
+  },
+  {
+    "chunk_id": "chunk_0068",
+    "source": "data/iesc110.pdf",
+    "page": 24,
+    "content_type": "prose",
+    "text": "y Explore the internet resources to explore the effect of humidity and \ntemperature on the speed of sound. Some such resources are: \n(i)\t https://phet.colorado.edu/en/simulations/sound-waves/\n(ii)\t https://musiclab.chromeexperiments.com/Experiments\n(iii)\t https://phyphox.org/experiments\nThe Journey Beyond",
+    "token_count": 75
+  }
+]
