@@ -1,0 +1,92 @@
+[
+  {
+    "query": "What is the speed of sound in air?",
+    "top1_chunk_id": "chunk_0064",
+    "top1_score": 0.9002,
+    "top1_page": 23,
+    "top1_content_type": "prose",
+    "top1_text_preview": "206\nExploration|Grade 9\n12. The speed of sound in air is about 331 m s–1 at 0 ºC and nearly \n344 m s–1 at 22 ºC. Roughly how much extra time will the sound of \nthunder take to travel a distance of 172",
+    "top1_relevant": null
+  },
+  {
+    "query": "What is an echo?",
+    "top1_chunk_id": "chunk_0050",
+    "top1_score": 0.8501,
+    "top1_page": 18,
+    "top1_content_type": "prose",
+    "top1_text_preview": "Sound Waves: Characteristics and Applications\n201\n10.7.1 Echo\nIf we shout near a mountain, a cliff, or in a long corridor we may hear our \nvoice again after some time. This is known as an echo. The so",
+    "top1_relevant": null
+  },
+  {
+    "query": "How do humans hear sound?",
+    "top1_chunk_id": "chunk_0000",
+    "top1_score": 0.8725,
+    "top1_page": 1,
+    "top1_content_type": "prose",
+    "top1_text_preview": "Sound Waves: \nCharacteristics and \nApplications\nChapter \n10\nSound is an everyday sensory experience that helps us become \naware of our surroundings. Every day, we hear a variety of sounds \nin our surr",
+    "top1_relevant": null
+  },
+  {
+    "query": "What is the frequency of sound?",
+    "top1_chunk_id": "chunk_0031",
+    "top1_score": 0.9057,
+    "top1_page": 11,
+    "top1_content_type": "prose",
+    "top1_text_preview": "10.18 \nindicating that it \nis almost a single \nfrequency sound. λ\nλ\nλ\nλ",
+    "top1_relevant": null
+  },
+  {
+    "query": "What is wavelength of a sound wave?",
+    "top1_chunk_id": "chunk_0038",
+    "top1_score": 0.9023,
+    "top1_page": 14,
+    "top1_content_type": "worked_example",
+    "top1_text_preview": "Sound Waves: Characteristics and Applications\n197\nλ\nspeed of the wave\nTherefore, wavelength  =  \nfrequency\n\t\n(i)\t For ν  = 20 Hz,        λ\n−\n−\n1\n1\n344 m s\n =  \n = 17.2 m \n20 s\n\t\n(ii)\tFor ν  = 20 kHz =",
+    "top1_relevant": null
+  },
+  {
+    "query": "How does sound travel through a medium?",
+    "top1_chunk_id": "chunk_0008",
+    "top1_score": 0.8821,
+    "top1_page": 4,
+    "top1_content_type": "question_or_exercise",
+    "top1_text_preview": "Sound Waves: Characteristics and Applications\n187\n2. Now, place your ear against the desk, close \nyour other ear and listen again, as shown \nin Fig. 10.5. Are you able to hear the sound \nthrough the t",
+    "top1_relevant": null
+  },
+  {
+    "query": "What is ultrasound used for?",
+    "top1_chunk_id": "chunk_0054",
+    "top1_score": 0.8485,
+    "top1_page": 19,
+    "top1_content_type": "prose",
+    "top1_text_preview": "Sound waves\nInfrasonic waves\n(less than 20 Hz)\nUsed for detecting natural events, such as \nearthquakes and volcanic eruptions\nUsed for detecting severe storms as such waves \ntravel long distances thro",
+    "top1_relevant": null
+  },
+  {
+    "query": "What is the difference between loudness and pitch?",
+    "top1_chunk_id": "chunk_0042",
+    "top1_score": 0.8553,
+    "top1_page": 15,
+    "top1_content_type": "question_or_exercise",
+    "top1_text_preview": "Sounds perceived \nto be shrill, such as a whistle or a siren are said to have high pitch, while \ndeep sounds like thunder or an aircraft rumble have low pitch. In general, \nhigh pitch sounds have high",
+    "top1_relevant": null
+  },
+  {
+    "query": "What is SONAR?",
+    "top1_chunk_id": "chunk_0058",
+    "top1_score": 0.8744,
+    "top1_page": 20,
+    "top1_content_type": "prose",
+    "top1_text_preview": "As technology \nimproves, sound is becoming an even more powerful tool to explore planets, living \norganisms, and the hidden activities of nature. Fig. 10.28: Functioning of sonar\nUltrasonic \nwaves sen",
+    "top1_relevant": null
+  },
+  {
+    "query": "How does a tuning fork produce sound?",
+    "top1_chunk_id": "chunk_0005",
+    "top1_score": 0.8989,
+    "top1_page": 3,
+    "top1_content_type": "question_or_exercise",
+    "top1_text_preview": "186\nExploration|Grade 9\n10.1.1 Tuning fork\nAn instrument that is often used for experiments with sound is a tuning \nfork. A tuning fork is a U-shaped metal bar with a stem. It is usually \nmade of stee",
+    "top1_relevant": null
+  }
+]
