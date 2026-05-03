@@ -1,0 +1,25 @@
+id,question,type,answer,chunk_ids,correct,grounded,refused_oos
+q01,What is the speed of sound in air?,direct,"The speed of sound in air is about 346 m s–1 at 25 °C. [chunk_0067] 
+","['chunk_0064', 'chunk_0038', 'chunk_0036', 'chunk_0063', 'chunk_0067']",YES,YES,NA
+q02,What is an echo?,direct,"An echo is when sound reflects off a hard surface of a distant object and comes back to us. [chunk_0050] 
+","['chunk_0050', 'chunk_0031', 'chunk_0058', 'chunk_0049', 'chunk_0055']",YES,YES,NA
+q03,What is the audible range of human hearing?,direct,"The audible range of human hearing is from 20 Hz to 20,000 Hz [chunk_0044]. 
+","['chunk_0044', 'chunk_0031', 'chunk_0045', 'chunk_0063', 'chunk_0064']",YES,YES,NA
+q04,What is SONAR and how does it work?,direct,"SONAR uses ultrasonic waves to determine the distance, direction, and speed of underwater objects. [chunk_0056] 
+","['chunk_0058', 'chunk_0056', 'chunk_0057', 'chunk_0031', 'chunk_0062']",YES,YES,NA
+q05,What is the difference between loudness and pitch?,direct,"Loudness is a perception of sound intensity, while pitch refers to the frequency of sound waves. [chunk_0045] 
+","['chunk_0031', 'chunk_0044', 'chunk_0045', 'chunk_0042', 'chunk_0067']",YES,YES,NA
+q06,How does a tuning fork produce sound?,direct,"A tuning fork produces sound by vibrating. [chunk_0006] 
+","['chunk_0005', 'chunk_0006', 'chunk_0024', 'chunk_0031', 'chunk_0007']",YES,YES,NA
+q07,How fast does sound move through air at room temperature?,paraphrased,"The speed of sound in air is about 346 m s–1 at 25 °C [chunk_0063]. 
+","['chunk_0064', 'chunk_0036', 'chunk_0068', 'chunk_0067', 'chunk_0063']",YES,YES,NA
+q08,Why do we hear our voice again near a mountain?,paraphrased,"Sound waves reflect off the hard surface of a distant object and come back to us. [chunk_0050] 
+","['chunk_0050', 'chunk_0058', 'chunk_0031', 'chunk_0001', 'chunk_0023']",YES,YES,NA
+q09,What frequencies can a person hear?,paraphrased,"The audible range or the human hearing range is from 20 Hz to 20,000 Hz (20 kHz). [chunk_0043] 
+","['chunk_0031', 'chunk_0043', 'chunk_0044', 'chunk_0027', 'chunk_0045']",YES,YES,NA
+q10,What is the speed of light?,oos,"I don't have that in my study materials. 
+","['chunk_0038', 'chunk_0067', 'chunk_0064', 'chunk_0039', 'chunk_0031']",NA,NA,YES
+q11,What is Newton's second law of motion?,oos,"I don't have that in my study materials. 
+","['chunk_0067', 'chunk_0017', 'chunk_0063', 'chunk_0013', 'chunk_0031']",NA,NA,YES
+q12,What is the speed of sound on the Moon?,oos_plausible,"I don't have that in my study materials. 
+","['chunk_0067', 'chunk_0031', 'chunk_0063', 'chunk_0064', 'chunk_0036']",NA,NA,YES

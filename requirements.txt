@@ -1,0 +1,11 @@
+jupyter
+PyMuPDF
+tiktoken
+sentence-transformers
+chromadb==0.5.23
+rank_bm25
+langchain
+langchain-community
+langchain-ollama
+pandas
+requests
